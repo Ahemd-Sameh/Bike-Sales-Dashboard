@@ -1,0 +1,25 @@
+Overview:
+The Bike Sales Dashboard is an interactive Excel-based tool designed to analyze bike sales data by various demographic 
+and behavioral factors. The dashboard enables users to gain insights into customer behavior and identify trends in bike
+ purchases.
+
+Key Features:
+Interactive Filters: Easily segment the data by marital status, region, and education.
+Avg Income Per Purchase: Visual representation of the average income of customers segmented by gender and purchase status.
+Customer Bracket Analysis: Visualization of bike purchases across different age brackets.
+Customer Commute Patterns: Analysis of the relationship between commute distance and bike purchase frequency.
+
+Technical Details:
+Tools Used: Microsoft Excel
+Techniques: Data cleaning, pivot tables, pivot charts, slicers
+Outcome: A user-friendly and interactive dashboard providing valuable insights into bike sales data.
+
+Process:
+Data preparation and cleaning.
+Creation of pivot tables to summarize key metrics.
+Development of pivot charts for visual representation.
+Implementation of interactive slicers for dynamic data filtering.
+Design and layout of the dashboard for a professional appearance.
+Testing and validation of the dashboard functionality.
+This project showcases my ability to leverage Excel's advanced features to create interactive and insightful data 
+visualizations, making complex data analysis accessible and actionable.
